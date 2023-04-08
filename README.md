@@ -1,1 +1,1 @@
-# github.io/sntrpc/painting
+# sntrpc.github.io/painting
